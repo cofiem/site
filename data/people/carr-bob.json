@@ -8,6 +8,13 @@
     "last_name": "CARR",
     "party": "alp",
     "retiring": false,
-    "term_start": "2012-03-12",
-    "wikipedia": "http://en.wikipedia.org/wiki/Bob_Carr"
+    "term_start": "2012-03-06",
+    "wikipedia": "http://en.wikipedia.org/wiki/Bob_Carr",
+    "parliment_link": "http://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=wx4",
+    "open_australia_link": "http://www.openaustralia.org/senator/bob_carr",
+    "image": "http://www.openaustralia.org/images/mpsL/10767.jpg",
+    "entered_reason": "general_election",
+    "office": [
+        "Minister for Foreign Affairs"
+    ]
 }

@@ -7,5 +7,10 @@
     "retiring": false,
     "term_start": "2011-07-01",
     "wikipedia": "http://en.wikipedia.org/wiki/John_Madigan_(Australian_politician)",
-    "website": "http://www.johnmadigan.com.au/"
+    "website": "http://www.johnmadigan.com.au/",
+    "email": "senator.madigan@aph.gov.au",
+    "parliment_link": "http://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=217571",
+    "open_australia_link": "http://www.openaustralia.org/senator/john_madigan",
+    "image": "http://www.openaustralia.org/images/mpsL/10759.jpg",
+    "entered_reason": "general_election"
 }

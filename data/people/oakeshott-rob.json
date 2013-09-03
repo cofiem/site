@@ -4,5 +4,9 @@
     "last_name": "OAKESHOTT",
     "retiring": true,
     "term_start": "2008-09-06",
-    "wikipedia": "http://en.wikipedia.org/wiki/Rob_Oakeshott"
+    "wikipedia": "http://en.wikipedia.org/wiki/Rob_Oakeshott",
+    "parliment_link": "http://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=IYS",
+    "open_australia_link": "http://www.openaustralia.org/mp/robert_oakeshott",
+    "image": "http://www.openaustralia.org/images/mpsL/10720.jpg",
+    "entered_reason": "by_election"
 }

@@ -8,5 +8,10 @@
     "retiring": false,
     "term_start": "2010-08-21",
     "wikipedia": "http://en.wikipedia.org/wiki/Chris_Hayes_(politician)",
-    "website": "http://www.chrishayesmp.com/"
+    "website": "http://www.chrishayesmp.com/",
+    "email": "Chris.Hayes.MP@aph.gov.au",
+    "parliment_link": "http://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=ECV",
+    "open_australia_link": "http://www.openaustralia.org/mp/chris_hayes",
+    "image": "http://www.openaustralia.org/images/mpsL/10294.jpg",
+    "entered_reason": "general_election"
 }

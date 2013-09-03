@@ -9,5 +9,9 @@
     "party": "lib",
     "retiring": false,
     "term_start": "2008-07-01",
-    "wikipedia": "http://en.wikipedia.org/wiki/Helen_Kroger"
+    "wikipedia": "http://en.wikipedia.org/wiki/Helen_Kroger",
+    "parliment_link": "http://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=G1N",
+    "open_australia_link": "http://www.openaustralia.org/senator/helen_kroger",
+    "image": "http://www.openaustralia.org/images/mpsL/10712.jpg",
+    "entered_reason": "general_election"
 }

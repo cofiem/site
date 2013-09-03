@@ -8,5 +8,16 @@
     "retiring": false,
     "term_start": "1996-03-02",
     "wikipedia": "http://en.wikipedia.org/wiki/Anthony_Albanese",
-    "website": "http://www.anthonyalbanese.com.au/"
+    "website": "http://www.anthonyalbanese.com.au/",
+    "email": "A.Albanese.MP@aph.gov.au",
+    "twitter": "http://twitter.com/AlboMP",
+    "parliment_link": "http://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=R36",
+    "open_australia_link": "http://www.openaustralia.org/mp/anthony_albanese",
+    "image": "http://www.openaustralia.org/images/mpsL/10007.jpg",
+    "entered_reason": "general_election",
+    "office": [
+        "Minister for Broadband, Communications and the Digital Economy",
+        "Deputy Prime Minister",
+        "Leader of the House"
+    ]
 }

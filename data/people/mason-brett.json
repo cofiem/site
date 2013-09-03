@@ -6,5 +6,13 @@
     "party": "lnp",
     "retiring": false,
     "term_start": "1999-07-01",
-    "wikipedia": "http://en.wikipedia.org/wiki/Brett_Mason"
+    "wikipedia": "http://en.wikipedia.org/wiki/Brett_Mason",
+    "email": "senator.mason@aph.gov.au",
+    "parliment_link": "http://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=84M",
+    "open_australia_link": "http://www.openaustralia.org/senator/brett_mason",
+    "image": "http://www.openaustralia.org/images/mpsL/10423.jpg",
+    "entered_reason": "general_election",
+    "office": [
+        "Shadow Minister for Universities and Research"
+    ]
 }

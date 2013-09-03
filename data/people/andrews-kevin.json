@@ -8,5 +8,15 @@
     "retiring": false,
     "term_start": "1991-05-11",
     "wikipedia": "http://en.wikipedia.org/wiki/Kevin_Andrews_(Australian_politician)",
-    "website": "http://www.kevinandrews.com.au/"
+    "website": "http://www.kevinandrews.com.au/",
+    "email": "menzies@aph.gov.au",
+    "twitter": "http://twitter.com/kevinandrewsmp",
+    "facebook": "http://www.facebook.com/kevinandrewsmp",
+    "parliment_link": "http://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=HK5",
+    "open_australia_link": "http://www.openaustralia.org/mp/kevin_andrews",
+    "image": "http://www.openaustralia.org/images/mpsL/10014.jpg",
+    "entered_reason": "by_election",
+    "office": [
+        "Shadow Minister for Families, Housing and Human Services"
+    ]
 }

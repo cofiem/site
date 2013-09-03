@@ -8,5 +8,13 @@
     "retiring": false,
     "term_start": "1998-10-03",
     "wikipedia": "http://en.wikipedia.org/wiki/Tanya_Plibersek",
-    "website": "http://www.tanyaplibersek.com/"
+    "website": "http://www.tanyaplibersek.com/",
+    "twitter": "http://twitter.com/tanya_plibersek",
+    "parliment_link": "http://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=83M",
+    "open_australia_link": "http://www.openaustralia.org/mp/tanya_plibersek",
+    "image": "http://www.openaustralia.org/images/mpsL/10513.jpg",
+    "entered_reason": "general_election",
+    "office": [
+        "Minister for Health and Medical Research"
+    ]
 }

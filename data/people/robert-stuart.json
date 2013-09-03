@@ -8,5 +8,13 @@
     "retiring": false,
     "term_start": "2007-11-24",
     "wikipedia": "http://en.wikipedia.org/wiki/Stuart_Robert",
-    "website": "http://www.robert.com.au/"
+    "website": "http://www.robert.com.au/",
+    "twitter": "http://twitter.com/stuartrobertmp",
+    "parliment_link": "http://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=HWT",
+    "open_australia_link": "http://www.openaustralia.org/mp/stuart_robert",
+    "image": "http://www.openaustralia.org/images/mpsL/10545.jpg",
+    "entered_reason": "general_election",
+    "office": [
+        "Shadow Minister for Defence Science, Technology and Personnel"
+    ]
 }

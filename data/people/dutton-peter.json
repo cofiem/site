@@ -8,5 +8,15 @@
     "retiring": false,
     "term_start": "2001-11-10",
     "wikipedia": "http://en.wikipedia.org/wiki/Peter_Dutton",
-    "website": "http://www.peterdutton.com.au/"
+    "website": "http://www.peterdutton.com.au/",
+    "email": "Peter.Dutton.MP@aph.gov.au",
+    "twitter": "http://twitter.com/PeterDutton_MP",
+    "facebook": "http://www.facebook.com/peterduttonmp",
+    "parliment_link": "http://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=00AKI",
+    "open_australia_link": "http://www.openaustralia.org/mp/peter_dutton",
+    "image": "http://www.openaustralia.org/images/mpsL/10188.jpg",
+    "entered_reason": "general_election",
+    "office": [
+        "Shadow Minister for Health and Ageing"
+    ]
 }

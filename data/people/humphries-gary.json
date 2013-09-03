@@ -7,5 +7,13 @@
     "retiring": true,
     "term_start": "2003-02-18",
     "website": "http://www.garyhumphries.com",
-    "wikipedia": "http://en.wikipedia.org/wiki/Gary_Humphries"
+    "wikipedia": "http://en.wikipedia.org/wiki/Gary_Humphries",
+    "email": "senator.humphries@aph.gov.au",
+    "parliment_link": "http://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=KO6",
+    "open_australia_link": "http://www.openaustralia.org/senator/gary_humphries",
+    "image": "http://www.openaustralia.org/images/mpsL/10318.jpg",
+    "office": [
+        "Shadow Parliamentary Secretary for Defence Materiel",
+        "Shadow Parliamentary Secretary to the Shadow Attorney-General"
+    ]
 }

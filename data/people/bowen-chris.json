@@ -8,5 +8,15 @@
     "retiring": false,
     "term_start": "2010-08-21",
     "wikipedia": "http://en.wikipedia.org/wiki/Chris_Bowen",
-    "website": "http://www.chrisbowen.net/"
+    "website": "http://www.chrisbowen.net/",
+    "email": "Chris.Bowen.MP@aph.gov.au",
+    "twitter": "http://twitter.com/Bowenchris",
+    "facebook": "http://www.facebook.com/chrisbowenmp",
+    "parliment_link": "http://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=DZS",
+    "open_australia_link": "http://www.openaustralia.org/mp/chris_bowen",
+    "image": "http://www.openaustralia.org/images/mpsL/10060.jpg",
+    "entered_reason": "general_election",
+    "office": [
+        "Treasurer"
+    ]
 }

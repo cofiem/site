@@ -8,5 +8,14 @@
     "retiring": false,
     "term_start": "1996-03-02",
     "wikipedia": "http://en.wikipedia.org/wiki/Joel_Fitzgibbon",
-    "website": "http://www.joelfitzgibbon.com/"
+    "website": "http://www.joelfitzgibbon.com/",
+    "email": "J.Fitzgibbon.MP@aph.gov.au",
+    "twitter": "http://twitter.com/fitzhunter",
+    "parliment_link": "http://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=8K6",
+    "open_australia_link": "http://www.openaustralia.org/mp/joel_fitzgibbon",
+    "image": "http://www.openaustralia.org/images/mpsL/10230.jpg",
+    "entered_reason": "general_election",
+    "office": [
+        "Minister for Agriculture, Fisheries and Forestry"
+    ]
 }

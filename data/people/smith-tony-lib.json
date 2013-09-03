@@ -8,5 +8,16 @@
     "retiring": false,
     "term_start": "2001-11-10",
     "wikipedia": "http://en.wikipedia.org/wiki/Tony_Smith_(Victorian_politician)",
-    "website": "http://www.tonysmithmp.com/"
+    "website": "http://www.tonysmithmp.com/",
+    "email": "Tony.Smith.MP@aph.gov.au",
+    "twitter": "http://twitter.com/TonySmithMP",
+    "parliment_link": "http://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=00APG",
+    "open_australia_link": "http://www.openaustralia.org/mp/tony_smith",
+    "image": "http://www.openaustralia.org/images/mpsL/10592.jpg",
+    "entered_reason": "general_election",
+    "office": [
+        "Deputy Chairman, Coalition Policy Development Committee",
+        "Shadow Parliamentary Secretary for Tax Reform",
+        "Deputy Chairman , Coalition Policy Development Committee"
+    ]
 }

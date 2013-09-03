@@ -8,5 +8,16 @@
     "retiring": false,
     "term_start": "2007-11-24",
     "wikipedia": "http://en.wikipedia.org/wiki/Gary_Gray_(Australian_politician)",
-    "website": "http://www.garygray.com.au/"
+    "website": "http://www.garygray.com.au/",
+    "email": "Gary.Gray.MP@aph.gov.au",
+    "facebook": "https://www.facebook.com/garygraymp",
+    "parliment_link": "http://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=8W5",
+    "open_australia_link": "http://www.openaustralia.org/mp/gary_gray",
+    "image": "http://www.openaustralia.org/images/mpsL/10264.jpg",
+    "entered_reason": "general_election",
+    "office": [
+        "Minister for Resources and Energy",
+        "Minister for Small Business",
+        "Minister for Tourism"
+    ]
 }

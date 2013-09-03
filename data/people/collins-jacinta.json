@@ -16,5 +16,13 @@
     ],
     "retiring": false,
     "term_start": "2008-05-08",
-    "wikipedia": "http://en.wikipedia.org/wiki/Jacinta_Collins"
+    "wikipedia": "http://en.wikipedia.org/wiki/Jacinta_Collins",
+    "parliment_link": "http://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=GB6",
+    "open_australia_link": "http://www.openaustralia.org/senator/jacinta_collins",
+    "image": "http://www.openaustralia.org/images/mpsL/10135.jpg",
+    "entered_reason": "general_election",
+    "office": [
+        "Manager of Government Business in the Senate",
+        "Parliamentary Secretary for School Education and Workplace Relations"
+    ]
 }

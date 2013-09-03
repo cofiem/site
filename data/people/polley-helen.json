@@ -7,5 +7,10 @@
     "retiring": false,
     "term_start": "2005-07-01",
     "wikipedia": "http://en.wikipedia.org/wiki/Helen_Polley",
-    "website": "http://www.senatorhelenpolley.com.au/"
+    "website": "http://www.senatorhelenpolley.com.au/",
+    "email": "senator.polley@aph.gov.au",
+    "parliment_link": "http://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=e5x",
+    "open_australia_link": "http://www.openaustralia.org/senator/helen_polley",
+    "image": "http://www.openaustralia.org/images/mpsL/10515.jpg",
+    "entered_reason": "general_election"
 }

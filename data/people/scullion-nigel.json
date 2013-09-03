@@ -9,5 +9,15 @@
     "party": "clp",
     "retiring": false,
     "term_start": "2001-11-10",
-    "wikipedia": "http://en.wikipedia.org/wiki/Nigel_Scullion"
+    "wikipedia": "http://en.wikipedia.org/wiki/Nigel_Scullion",
+    "email": "senator.scullion@aph.gov.au",
+    "parliment_link": "http://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=00AOM",
+    "open_australia_link": "http://www.openaustralia.org/senator/nigel_scullion",
+    "image": "http://www.openaustralia.org/images/mpsL/10569.jpg",
+    "entered_reason": "general_election",
+    "office": [
+        "Deputy Leader of The Nationals",
+        "Shadow Minister for Indigenous Affairs",
+        "Deputy Leader of the Nationals"
+    ]
 }

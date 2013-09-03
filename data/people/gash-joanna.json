@@ -5,5 +5,12 @@
     "party": "lib",
     "retiring": false,
     "term_start": "1996-03-02",
-    "wikipedia": "http://en.wikipedia.org/wiki/Joanna_Gash"
+    "wikipedia": "http://en.wikipedia.org/wiki/Joanna_Gash",
+    "email": "Joanna.Gash.MP@aph.gov.au",
+    "twitter": "http://twitter.com/JoGash",
+    "facebook": "http://www.facebook.com/joanna.gash",
+    "parliment_link": "http://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=AK6",
+    "open_australia_link": "http://www.openaustralia.org/mp/joanna_gash",
+    "image": "http://www.openaustralia.org/images/mpsL/10242.jpg",
+    "entered_reason": "general_election"
 }

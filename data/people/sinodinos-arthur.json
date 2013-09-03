@@ -8,7 +8,14 @@
     "last_name": "SINODINOS",
     "party": "lib",
     "retiring": false,
-    "term_start": "2011-11-02",
+    "term_start": "2011-10-31",
     "wikipedia": "http://en.wikipedia.org/wiki/Arthur_Sinodinos",
-    "website": "http://www.arthursinodinos.com.au/"
+    "website": "http://www.arthursinodinos.com.au/",
+    "email": "senator.sinodinos@aph.gov.au",
+    "parliment_link": "http://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=bv7",
+    "open_australia_link": "http://www.openaustralia.org/senator/arthur_sinodinos",
+    "image": "http://www.openaustralia.org/images/mpsL/10766.jpg",
+    "office": [
+        "Shadow Parliamentary Secretary Assisting the Leader of the Opposition"
+    ]
 }

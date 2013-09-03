@@ -6,7 +6,18 @@
     "last_name": "SHORTEN",
     "party": "alp",
     "retiring": false,
-    "term_start": "2007-12-03",
+    "term_start": "2007-11-24",
     "wikipedia": "http://en.wikipedia.org/wiki/Bill_Shorten",
-    "website": "http://www.billshorten.com.au/"
+    "website": "http://www.billshorten.com.au/",
+    "twitter": "http://twitter.com/billshortenmp",
+    "facebook": "http://www.facebook.com/BillShorten",
+    "parliment_link": "http://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=00ATG",
+    "open_australia_link": "http://www.openaustralia.org/mp/bill_shorten",
+    "image": "http://www.openaustralia.org/images/mpsL/10580.jpg",
+    "entered_reason": "general_election",
+    "office": [
+        "Minister for Workplace Relations",
+        "Minister for Education",
+        "Minister for Financial Services and Superannuation"
+    ]
 }

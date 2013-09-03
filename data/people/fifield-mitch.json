@@ -10,5 +10,12 @@
     "retiring": false,
     "term_start": "2004-03-31",
     "wikipedia": "http://en.wikipedia.org/wiki/Mitch_Fifield",
-    "website": "http://www.mitchfifield.com/"
+    "website": "http://www.mitchfifield.com/",
+    "parliment_link": "http://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=D2I",
+    "open_australia_link": "http://www.openaustralia.org/senator/mitch_fifield",
+    "image": "http://www.openaustralia.org/images/mpsL/10224.jpg",
+    "office": [
+        "Manager of Opposition Business in the Senate",
+        "Shadow Minister for Disabilities, Carers and the Voluntary Sector"
+    ]
 }

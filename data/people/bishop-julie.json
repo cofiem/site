@@ -7,5 +7,18 @@
     "party": "lib",
     "retiring": false,
     "term_start": "1998-10-03",
-    "wikipedia": "http://en.wikipedia.org/wiki/Julie_Bishop"
+    "wikipedia": "http://en.wikipedia.org/wiki/Julie_Bishop",
+    "email": "Julie.Bishop.MP@aph.gov.au",
+    "twitter": "http://twitter.com/JulieBishopMP",
+    "facebook": "http://www.facebook.com/julie.bishop.mp",
+    "parliment_link": "http://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=83P",
+    "open_australia_link": "http://www.openaustralia.org/mp/julie_bishop",
+    "image": "http://www.openaustralia.org/images/mpsL/10047.jpg",
+    "title": "Ms",
+    "entered_reason": "general_election",
+    "office": [
+        "Deputy Leader of the Opposition",
+        "Shadow Minister for Foreign Affairs",
+        "Shadow Minister for Trade"
+    ]
 }

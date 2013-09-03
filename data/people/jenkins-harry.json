@@ -4,7 +4,11 @@
     "last_name": "JENKINS",
     "party": "alp",
     "retiring": false,
-    "term_start": "1986-02-08",
+    "term_start": "2011-11-24",
     "wikipedia": "http://en.wikipedia.org/wiki/Harry_Jenkins",
-    "website": "http://www.harryjenkins.com/"
+    "website": "http://www.harryjenkins.com/",
+    "parliment_link": "http://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=HH4",
+    "open_australia_link": "http://www.openaustralia.org/mp/harry_jenkins",
+    "image": "http://www.openaustralia.org/images/mpsL/10335.jpg",
+    "entered_reason": "changed_party"
 }

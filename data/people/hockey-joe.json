@@ -6,7 +6,17 @@
     "last_name": "HOCKEY",
     "party": "lib",
     "retiring": false,
-    "term_start": "2009-02-16",
+    "term_start": "1996-03-02",
     "wikipedia": "http://en.wikipedia.org/wiki/Joe_Hockey",
-    "website": "http://www.joehockey.com/"
+    "website": "http://www.joehockey.com/",
+    "email": "J.Hockey.MP@aph.gov.au",
+    "twitter": "http://twitter.com/JoeHockey",
+    "facebook": "http://www.facebook.com/joehockey",
+    "parliment_link": "http://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=DK6",
+    "open_australia_link": "http://www.openaustralia.org/mp/joe_hockey",
+    "image": "http://www.openaustralia.org/images/mpsL/10306.jpg",
+    "entered_reason": "general_election",
+    "office": [
+        "Shadow Treasurer"
+    ]
 }

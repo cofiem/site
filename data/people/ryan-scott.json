@@ -9,5 +9,12 @@
     "party": "lib",
     "retiring": false,
     "term_start": "2008-07-01",
-    "wikipedia": "http://en.wikipedia.org/wiki/Scott_Ryan_(Australian_politician)"
+    "wikipedia": "http://en.wikipedia.org/wiki/Scott_Ryan_(Australian_politician)",
+    "parliment_link": "http://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=I0Q",
+    "open_australia_link": "http://www.openaustralia.org/senator/scott_ryan",
+    "image": "http://www.openaustralia.org/images/mpsL/10715.jpg",
+    "entered_reason": "general_election",
+    "office": [
+        "Shadow Parliamentary Secretary for Small Business and Fair Competition"
+    ]
 }

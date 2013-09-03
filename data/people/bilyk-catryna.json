@@ -9,5 +9,9 @@
     "party": "alp",
     "retiring": false,
     "term_start": "2008-07-01",
-    "wikipedia": "http://en.wikipedia.org/wiki/Catryna_Bilyk"
+    "wikipedia": "http://en.wikipedia.org/wiki/Catryna_Bilyk",
+    "parliment_link": "http://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=HZB",
+    "open_australia_link": "http://www.openaustralia.org/senator/catryna_bilyk",
+    "image": "http://www.openaustralia.org/images/mpsL/10705.jpg",
+    "entered_reason": "general_election"
 }

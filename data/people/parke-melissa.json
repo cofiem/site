@@ -8,5 +8,13 @@
     "retiring": false,
     "term_start": "2007-11-24",
     "wikipedia": "http://en.wikipedia.org/wiki/Melissa_Parke",
-    "website": "http://www.melissaparke.com.au/"
+    "website": "http://www.melissaparke.com.au/",
+    "facebook": "https://www.facebook.com/MelissaParkeMP",
+    "parliment_link": "http://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=HWR",
+    "open_australia_link": "http://www.openaustralia.org/mp/melissa_parke",
+    "image": "http://www.openaustralia.org/images/mpsL/10506.jpg",
+    "entered_reason": "general_election",
+    "office": [
+        "Minister for International Development"
+    ]
 }

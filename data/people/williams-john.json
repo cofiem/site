@@ -10,5 +10,9 @@
     "retiring": false,
     "term_start": "2008-07-01",
     "wikipedia": "http://en.wikipedia.org/wiki/John_Williams_(New_South_Wales_federal_politician)",
-    "website": "http://www.johnwilliams.com.au/"
+    "website": "http://www.johnwilliams.com.au/",
+    "parliment_link": "http://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=I0V",
+    "open_australia_link": "http://www.openaustralia.org/senator/john_williams",
+    "image": "http://www.openaustralia.org/images/mpsL/10716.jpg",
+    "entered_reason": "general_election"
 }

@@ -8,5 +8,14 @@
     "retiring": false,
     "term_start": "2007-11-24",
     "wikipedia": "http://en.wikipedia.org/wiki/Richard_Marles",
-    "website": "http://www.richardmarles.com.au/"
+    "website": "http://www.richardmarles.com.au/",
+    "twitter": "https://twitter.com/RichardMarlesMP",
+    "facebook": "https://www.facebook.com/richardmarlesmp",
+    "parliment_link": "http://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=HWQ",
+    "open_australia_link": "http://www.openaustralia.org/mp/richard_marles",
+    "image": "http://www.openaustralia.org/images/mpsL/10418.jpg",
+    "entered_reason": "general_election",
+    "office": [
+        "Minister for Trade"
+    ]
 }

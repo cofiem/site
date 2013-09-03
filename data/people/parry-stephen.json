@@ -5,6 +5,10 @@
     "last_name": "PARRY",
     "party": "lib",
     "retiring": false,
-    "term_start": "2011-07-04",
-    "wikipedia": "http://en.wikipedia.org/wiki/Stephen_Parry_(politician)"
+    "term_start": "2005-07-01",
+    "wikipedia": "http://en.wikipedia.org/wiki/Stephen_Parry_(politician)",
+    "parliment_link": "http://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=e5v",
+    "open_australia_link": "http://www.openaustralia.org/senator/stephen_parry",
+    "image": "http://www.openaustralia.org/images/mpsL/10507.jpg",
+    "entered_reason": "general_election"
 }

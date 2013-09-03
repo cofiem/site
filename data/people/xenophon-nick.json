@@ -10,5 +10,10 @@
     "retiring": false,
     "term_start": "2008-07-01",
     "website": "http://www.nickxenophon.com.au/",
-    "wikipedia": "http://en.wikipedia.org/wiki/Nick_Xenophon"
+    "wikipedia": "http://en.wikipedia.org/wiki/Nick_Xenophon",
+    "email": "senator.xenophon@aph.gov.au",
+    "parliment_link": "http://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=8IV",
+    "open_australia_link": "http://www.openaustralia.org/senator/nick_xenophon",
+    "image": "http://www.openaustralia.org/images/mpsL/10717.jpg",
+    "entered_reason": "general_election"
 }

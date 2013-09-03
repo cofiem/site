@@ -5,6 +5,10 @@
     "last_name": "BACK",
     "party": "lib",
     "retiring": false,
-    "term_start": "2009-03-12",
-    "wikipedia": "http://en.wikipedia.org/wiki/Chris_Back"
+    "term_start": "2009-03-11",
+    "wikipedia": "http://en.wikipedia.org/wiki/Chris_Back",
+    "parliment_link": "http://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=J7Q",
+    "open_australia_link": "http://www.openaustralia.org/senator/christopher_back",
+    "image": "http://www.openaustralia.org/images/mpsL/10722.jpg",
+    "entered_reason": "general_election"
 }

@@ -5,5 +5,9 @@
     "party": "lib",
     "retiring": false,
     "term_start": "1993-03-13",
-    "wikipedia": "http://en.wikipedia.org/wiki/Judi_Moylan"
+    "wikipedia": "http://en.wikipedia.org/wiki/Judi_Moylan",
+    "parliment_link": "http://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=4V5",
+    "open_australia_link": "http://www.openaustralia.org/mp/judi_moylan",
+    "image": "http://www.openaustralia.org/images/mpsL/10471.jpg",
+    "entered_reason": "general_election"
 }

@@ -8,5 +8,14 @@
     "retiring": false,
     "term_start": "1998-10-03",
     "wikipedia": "http://en.wikipedia.org/wiki/Kevin_Rudd",
-    "website": "http://www.kevinrudd.org.au/"
+    "website": "http://www.kevinrudd.org.au/",
+    "twitter": "http://twitter.com/KRuddMP",
+    "facebook": "http://www.facebook.com/KevinRuddMP",
+    "parliment_link": "http://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=83T",
+    "open_australia_link": "http://www.openaustralia.org/mp/kevin_rudd",
+    "image": "http://www.openaustralia.org/images/mpsL/10552.jpg",
+    "entered_reason": "general_election",
+    "office": [
+        "Prime Minister"
+    ]
 }

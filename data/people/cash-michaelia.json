@@ -9,5 +9,14 @@
     "party": "lib",
     "retiring": false,
     "term_start": "2008-07-01",
-    "wikipedia": "http://en.wikipedia.org/wiki/Michaelia_Cash"
+    "wikipedia": "http://en.wikipedia.org/wiki/Michaelia_Cash",
+    "parliment_link": "http://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=I0M",
+    "open_australia_link": "http://www.openaustralia.org/senator/michaelia_cash",
+    "image": "http://www.openaustralia.org/images/mpsL/10707.jpg",
+    "entered_reason": "general_election",
+    "office": [
+        "Deputy Manager of Opposition Business in the Senate",
+        "Shadow Parliamentary Secretary for Immigration",
+        "Shadow Parliamentary Secretary for the Status of Women"
+    ]
 }

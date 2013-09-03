@@ -10,5 +10,13 @@
     "retiring": false,
     "term_start": "2002-07-01",
     "wikipedia": "http://en.wikipedia.org/wiki/Penny_Wong",
-    "website": "http://www.pennywong.com.au/"
+    "website": "http://www.pennywong.com.au/",
+    "parliment_link": "http://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=00AOU",
+    "open_australia_link": "http://www.openaustralia.org/senator/penny_wong",
+    "image": "http://www.openaustralia.org/images/mpsL/10678.jpg",
+    "entered_reason": "general_election",
+    "office": [
+        "Leader of the Government in the Senate",
+        "Minister for Finance and Deregulation"
+    ]
 }

@@ -8,5 +8,13 @@
     "retiring": false,
     "term_start": "2007-11-24",
     "wikipedia": "http://en.wikipedia.org/wiki/Mark_Butler",
-    "website": "http://markbutler.alp.org.au/"
+    "website": "http://markbutler.alp.org.au/",
+    "twitter": "http://twitter.com/Mark_Butler_MP",
+    "parliment_link": "http://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=HWK",
+    "open_australia_link": "http://www.openaustralia.org/mp/mark_butler",
+    "image": "http://www.openaustralia.org/images/mpsL/10086.jpg",
+    "entered_reason": "general_election",
+    "office": [
+        "Minister for Climate Change, Environment, Heritage and Water"
+    ]
 }

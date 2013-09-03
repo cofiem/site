@@ -9,5 +9,14 @@
     "party": "lib",
     "retiring": false,
     "term_start": "2007-05-03",
-    "wikipedia": "http://en.wikipedia.org/wiki/Simon_Birmingham"
+    "wikipedia": "http://en.wikipedia.org/wiki/Simon_Birmingham",
+    "twitter": "https://twitter.com/Birmo",
+    "facebook": "https://facebook.com/simonbirmingham",
+    "parliment_link": "http://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=H6X",
+    "open_australia_link": "http://www.openaustralia.org/senator/simon_birmingham",
+    "image": "http://www.openaustralia.org/images/mpsL/10044.jpg",
+    "office": [
+        "Shadow Parliamentary Secretary for the Environment",
+        "Shadow Parliamentary Secretary for the Murray Darling Basin"
+    ]
 }

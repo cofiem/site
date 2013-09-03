@@ -5,5 +5,9 @@
     "party": "lnp",
     "retiring": true,
     "term_start": "1990-03-24",
-    "wikipedia": "http://en.wikipedia.org/wiki/Alex_Somlyay"
+    "wikipedia": "http://en.wikipedia.org/wiki/Alex_Somlyay",
+    "parliment_link": "http://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=ZT4",
+    "open_australia_link": "http://www.openaustralia.org/mp/alex_somlyay",
+    "image": "http://www.openaustralia.org/images/mpsL/10600.jpg",
+    "entered_reason": "general_election"
 }

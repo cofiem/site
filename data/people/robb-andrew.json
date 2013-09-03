@@ -8,5 +8,15 @@
     "retiring": false,
     "term_start": "2004-10-09",
     "wikipedia": "http://en.wikipedia.org/wiki/Andrew_Robb",
-    "website": "http://www.andrewrobb.com.au/"
+    "website": "http://www.andrewrobb.com.au/",
+    "email": "Andrew.Robb.MP@aph.gov.au",
+    "twitter": "http://twitter.com/AndrewRobbMP",
+    "parliment_link": "http://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=FU4",
+    "open_australia_link": "http://www.openaustralia.org/mp/andrew_robb",
+    "image": "http://www.openaustralia.org/images/mpsL/10544.jpg",
+    "entered_reason": "general_election",
+    "office": [
+        "Chairman of the Coalition Policy Development Committee",
+        "Shadow Minister for Finance, Deregulation and Debt Reduction"
+    ]
 }

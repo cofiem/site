@@ -6,7 +6,12 @@
     "last_name": "SCOTT",
     "party": "lnp",
     "retiring": false,
-    "term_start": "1990-03-24",
+    "term_start": "2012-10-09",
     "wikipedia": "http://en.wikipedia.org/wiki/Bruce_Scott",
-    "website": "http://www.maranoa.info/"
+    "website": "http://www.maranoa.info/",
+    "email": "Bruce.Scott.MP@aph.gov.au",
+    "parliment_link": "http://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=YT4",
+    "open_australia_link": "http://www.openaustralia.org/mp/bruce_scott",
+    "image": "http://www.openaustralia.org/images/mpsL/10565.jpg",
+    "entered_reason": "changed_party"
 }

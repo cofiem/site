@@ -8,5 +8,17 @@
     "retiring": false,
     "term_start": "2007-11-24",
     "wikipedia": "http://en.wikipedia.org/wiki/Julie_Collins",
-    "website": "http://www.juliecollins.com/"
+    "website": "http://www.juliecollins.com/",
+    "twitter": "https://twitter.com/JulieCollinsMP",
+    "facebook": "https://www.facebook.com/juliecollinsmp",
+    "parliment_link": "http://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=HWM",
+    "open_australia_link": "http://www.openaustralia.org/mp/julie_collins",
+    "image": "http://www.openaustralia.org/images/mpsL/10136.jpg",
+    "entered_reason": "general_election",
+    "office": [
+        "Minister for Housing and Homelessness",
+        "Minister for Community Services ",
+        "Minister for Indigenous Employment and Economic Development ",
+        "Minister for the Status of Women"
+    ]
 }

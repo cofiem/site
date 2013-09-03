@@ -8,5 +8,12 @@
     "retiring": false,
     "term_start": "2008-06-28",
     "wikipedia": "http://en.wikipedia.org/wiki/Darren_Chester",
-    "website": "http://www.darrenchester.com.au/"
+    "website": "http://www.darrenchester.com.au/",
+    "parliment_link": "http://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=IPZ",
+    "open_australia_link": "http://www.openaustralia.org/mp/darren_chester",
+    "image": "http://www.openaustralia.org/images/mpsL/10703.jpg",
+    "entered_reason": "by_election",
+    "office": [
+        "Shadow Parliamentary Secretary for Roads and Regional Transport"
+    ]
 }

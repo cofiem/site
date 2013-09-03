@@ -8,5 +8,15 @@
     "retiring": false,
     "term_start": "2001-11-10",
     "wikipedia": "http://en.wikipedia.org/wiki/Luke_Hartsuyker",
-    "website": "http://www.lukehartsuyker.com.au/"
+    "website": "http://www.lukehartsuyker.com.au/",
+    "email": "Luke.Hartsuyker.MP@aph.gov.au",
+    "parliment_link": "http://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=00AMM",
+    "open_australia_link": "http://www.openaustralia.org/mp/luke_hartsuyker",
+    "image": "http://www.openaustralia.org/images/mpsL/10285.jpg",
+    "entered_reason": "general_election",
+    "office": [
+        "Deputy Manager of Opposition Business in the House",
+        "Shadow Minister for Regional Communications",
+        "Shadow Minister for Youth and Sport"
+    ]
 }

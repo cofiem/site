@@ -7,5 +7,11 @@
     "retiring": false,
     "term_start": "2010-08-21",
     "wikipedia": "http://en.wikipedia.org/wiki/Andrew_Wilkie",
-    "website": "http://www.andrewwilkie.org/"
+    "website": "http://www.andrewwilkie.org/",
+    "twitter": "http://twitter.com/WilkieMP",
+    "facebook": "http://www.facebook.com/andrewwilkiemp",
+    "parliment_link": "http://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=C2T",
+    "open_australia_link": "http://www.openaustralia.org/mp/andrew_wilkie",
+    "image": "http://www.openaustralia.org/images/mpsL/10727.jpg",
+    "entered_reason": "general_election"
 }

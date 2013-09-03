@@ -10,5 +10,9 @@
     "retiring": false,
     "term_start": "2008-07-01",
     "wikipedia": "http://en.wikipedia.org/wiki/Doug_Cameron_(politician)",
-    "website": "http://www.dougcameron.com.au/"
+    "website": "http://www.dougcameron.com.au/",
+    "parliment_link": "http://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=AI6",
+    "open_australia_link": "http://www.openaustralia.org/senator/doug_cameron",
+    "image": "http://www.openaustralia.org/images/mpsL/10706.jpg",
+    "entered_reason": "general_election"
 }

@@ -8,5 +8,10 @@
     "retiring": false,
     "term_start": "1993-03-13",
     "wikipedia": "http://en.wikipedia.org/wiki/Dick_Adams_(politician)",
-    "website": "http://www.dickadams.com.au/"
+    "website": "http://www.dickadams.com.au/",
+    "facebook": "https://www.facebook.com/Dick.Adams.MP",
+    "parliment_link": "http://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=BV5",
+    "open_australia_link": "http://www.openaustralia.org/mp/dick_adams",
+    "image": "http://www.openaustralia.org/images/mpsL/10004.jpg",
+    "entered_reason": "general_election"
 }

@@ -8,5 +8,17 @@
     "retiring": false,
     "term_start": "2001-11-10",
     "wikipedia": "http://en.wikipedia.org/wiki/Warren_Snowdon",
-    "website": "http://www.warrensnowdon.com/"
+    "website": "http://www.warrensnowdon.com/",
+    "email": "Warren.Snowdon.MP@aph.gov.au",
+    "facebook": "http://www.facebook.com/snowdonmp",
+    "parliment_link": "http://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=IJ4",
+    "open_australia_link": "http://www.openaustralia.org/mp/warren_snowdon",
+    "image": "http://www.openaustralia.org/images/mpsL/10599.jpg",
+    "entered_reason": "general_election",
+    "office": [
+        "Minister Assisting the Prime Minister on the Centenary of ANZAC",
+        "Minister for Defence Science and Personnel",
+        "Minister for Indigenous Health",
+        "Minister for Veterans' Affairs"
+    ]
 }

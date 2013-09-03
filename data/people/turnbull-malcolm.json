@@ -8,5 +8,15 @@
     "retiring": false,
     "term_start": "2004-10-09",
     "wikipedia": "http://en.wikipedia.org/wiki/Malcolm_Turnbull",
-    "website": "http://www.malcolmturnbull.com.au/"
+    "website": "http://www.malcolmturnbull.com.au/",
+    "email": "Malcolm.Turnbull.MP@aph.gov.au",
+    "twitter": "http://twitter.com/TurnbullMalcolm",
+    "facebook": "http://www.facebook.com/pages/Malcolm-Turnbull/53772921578",
+    "parliment_link": "http://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=885",
+    "open_australia_link": "http://www.openaustralia.org/mp/malcolm_turnbull",
+    "image": "http://www.openaustralia.org/images/mpsL/10643.jpg",
+    "entered_reason": "general_election",
+    "office": [
+        "Shadow Minister for Communications and Broadband"
+    ]
 }

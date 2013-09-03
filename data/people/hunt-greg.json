@@ -8,5 +8,15 @@
     "retiring": false,
     "term_start": "2001-11-10",
     "wikipedia": "http://en.wikipedia.org/wiki/Greg_Hunt",
-    "website": "http://www.greghunt.com.au/"
+    "website": "http://www.greghunt.com.au/",
+    "email": "Greg.Hunt.MP@aph.gov.au",
+    "twitter": "http://www.twitter.com/greghuntmp",
+    "facebook": "http://www.facebook.com/greg.hunt.mp",
+    "parliment_link": "http://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=00AMV",
+    "open_australia_link": "http://www.openaustralia.org/mp/greg_hunt",
+    "image": "http://www.openaustralia.org/images/mpsL/10319.jpg",
+    "entered_reason": "general_election",
+    "office": [
+        "Shadow Minister for Climate Action, Environment and Heritage"
+    ]
 }

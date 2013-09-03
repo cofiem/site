@@ -7,5 +7,15 @@
     "party": "lib",
     "retiring": false,
     "term_start": "1994-03-26",
-    "wikipedia": "http://en.wikipedia.org/wiki/Tony_Abbott"
+    "wikipedia": "http://en.wikipedia.org/wiki/Tony_Abbott",
+    "email": "Tony.Abbott.MP@aph.gov.au",
+    "twitter": "http://twitter.com/TonyAbbottMHR",
+    "facebook": "http://www.facebook.com/TonyAbbottMP",
+    "parliment_link": "http://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=EZ5",
+    "open_australia_link": "http://www.openaustralia.org/mp/tony_abbott",
+    "image": "http://www.openaustralia.org/images/mpsL/10001.jpg",
+    "entered_reason": "by_election",
+    "office": [
+        "Leader of the Opposition"
+    ]
 }

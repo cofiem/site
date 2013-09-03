@@ -5,5 +5,10 @@
     "party": "nat",
     "retiring": true,
     "term_start": "1993-03-13",
-    "wikipedia": "http://en.wikipedia.org/wiki/John_Forrest_(Victorian_politician)"
+    "wikipedia": "http://en.wikipedia.org/wiki/John_Forrest_(Victorian_politician)",
+    "email": "J.Forrest.MP@aph.gov.au",
+    "parliment_link": "http://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=NV5",
+    "open_australia_link": "http://www.openaustralia.org/mp/john_forrest",
+    "image": "http://www.openaustralia.org/images/mpsL/10234.jpg",
+    "entered_reason": "general_election"
 }

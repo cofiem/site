@@ -8,5 +8,13 @@
     "retiring": false,
     "term_start": "1996-03-02",
     "wikipedia": "http://en.wikipedia.org/wiki/Jenny_Macklin",
-    "website": "http://www.jennymacklin.net.au/"
+    "website": "http://www.jennymacklin.net.au/",
+    "parliment_link": "http://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=PG6",
+    "open_australia_link": "http://www.openaustralia.org/mp/jenny_macklin",
+    "image": "http://www.openaustralia.org/images/mpsL/10409.jpg",
+    "entered_reason": "general_election",
+    "office": [
+        "Minister for Disability Reform",
+        "Minister for Families, Community Services and Indigenous Affairs"
+    ]
 }

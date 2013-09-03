@@ -8,5 +8,16 @@
     "retiring": false,
     "term_start": "2007-11-24",
     "wikipedia": "http://en.wikipedia.org/wiki/Mark_Dreyfus",
-    "website": "http://www.markdreyfus.com/"
+    "website": "http://www.markdreyfus.com/",
+    "facebook": "http://en-gb.facebook.com/mark.dreyfus",
+    "parliment_link": "http://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=HWG",
+    "open_australia_link": "http://www.openaustralia.org/mp/mark_dreyfus",
+    "image": "http://www.openaustralia.org/images/mpsL/10181.jpg",
+    "entered_reason": "general_election",
+    "office": [
+        "Minister for the Public Service and Integrity",
+        "Special Minister of State",
+        "Attorney-General",
+        "Minister for Emergency Management"
+    ]
 }

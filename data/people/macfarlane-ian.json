@@ -8,5 +8,13 @@
     "retiring": false,
     "term_start": "1998-10-03",
     "wikipedia": "http://en.wikipedia.org/wiki/Ian_Macfarlane_(politician)",
-    "website": "http://www.ianmacfarlanemp.com/"
+    "website": "http://www.ianmacfarlanemp.com/",
+    "email": "Ian.Macfarlane.MP@aph.gov.au",
+    "parliment_link": "http://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=WN6",
+    "open_australia_link": "http://www.openaustralia.org/mp/ian_macfarlane",
+    "image": "http://www.openaustralia.org/images/mpsL/10403.jpg",
+    "entered_reason": "general_election",
+    "office": [
+        "Shadow Minister for Energy and Resources"
+    ]
 }

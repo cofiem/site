@@ -10,5 +10,15 @@
     "retiring": false,
     "term_start": "1996-03-02",
     "website": "http://www.katelundy.com.au/",
-    "wikipedia": "http://en.wikipedia.org/wiki/Kate_Lundy"
+    "wikipedia": "http://en.wikipedia.org/wiki/Kate_Lundy",
+    "email": "senator.lundy@aph.gov.au",
+    "parliment_link": "http://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=7G6",
+    "open_australia_link": "http://www.openaustralia.org/senator/kate_lundy",
+    "image": "http://www.openaustralia.org/images/mpsL/10398.jpg",
+    "entered_reason": "general_election",
+    "office": [
+        "Minister for Multicultural Affairs, Innovation and Industry",
+        "Minister Assisting for the Digital Economy",
+        "Minister Assisting for Industry and Innovation"
+    ]
 }

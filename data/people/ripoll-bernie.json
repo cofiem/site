@@ -6,7 +6,17 @@
     "last_name": "RIPOLL",
     "party": "alp",
     "retiring": false,
-    "term_start": "1998-10-10",
+    "term_start": "1998-10-03",
     "wikipedia": "http://en.wikipedia.org/wiki/Bernie_Ripoll",
-    "website": "http://www.bernieripoll.com.au/"
+    "website": "http://www.bernieripoll.com.au/",
+    "email": "Bernie.Ripoll.MP@aph.gov.au",
+    "twitter": "http://twitter.com/bernieripoll_mp",
+    "facebook": "http://www.facebook.com/pages/Bernie-Ripoll/47126097966",
+    "parliment_link": "http://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=83E",
+    "open_australia_link": "http://www.openaustralia.org/mp/bernie_ripoll",
+    "image": "http://www.openaustralia.org/images/mpsL/10542.jpg",
+    "entered_reason": "general_election",
+    "office": [
+        "Parliamentary Secretary for Small Business"
+    ]
 }

@@ -10,5 +10,13 @@
     "retiring": false,
     "term_start": "1997-04-09",
     "wikipedia": "http://en.wikipedia.org/wiki/Marise_Payne",
-    "website": "http://www.marisepayne.com/"
+    "website": "http://www.marisepayne.com/",
+    "parliment_link": "http://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=M56",
+    "open_australia_link": "http://www.openaustralia.org/senator/marise_payne",
+    "image": "http://www.openaustralia.org/images/mpsL/10509.jpg",
+    "office": [
+        "Shadow Minister for COAG",
+        "Shadow Minister for Housing",
+        "Shadow Minister for Indigenous Development and Employment"
+    ]
 }

@@ -8,5 +8,13 @@
     "retiring": false,
     "term_start": "2001-11-10",
     "wikipedia": "http://en.wikipedia.org/wiki/Don_Randall",
-    "website": "http://www.donrandallmp.com/"
+    "website": "http://www.donrandallmp.com/",
+    "email": "Don.Randall.MP@aph.gov.au",
+    "parliment_link": "http://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=PK6",
+    "open_australia_link": "http://www.openaustralia.org/mp/don_randall",
+    "image": "http://www.openaustralia.org/images/mpsL/10530.jpg",
+    "entered_reason": "general_election",
+    "office": [
+        "Shadow Parliamentary Secretary for Local Government"
+    ]
 }

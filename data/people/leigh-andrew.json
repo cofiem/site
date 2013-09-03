@@ -8,5 +8,14 @@
     "retiring": false,
     "term_start": "2010-08-21",
     "wikipedia": "http://en.wikipedia.org/wiki/Andrew_Leigh",
-    "website": "http://www.andrewleigh.com/"
+    "website": "http://www.andrewleigh.com/",
+    "email": "andrew.leigh.mp@aph.gov.au",
+    "facebook": "http://www.facebook.com/pages/Andrew-Leigh-MP/129819533748295",
+    "parliment_link": "http://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=BU8",
+    "open_australia_link": "http://www.openaustralia.org/mp/andrew_leigh",
+    "image": "http://www.openaustralia.org/images/mpsL/10746.jpg",
+    "entered_reason": "general_election",
+    "office": [
+        "Parliamentary Secretary to the Prime Minister"
+    ]
 }

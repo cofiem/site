@@ -8,5 +8,13 @@
     "retiring": false,
     "term_start": "2007-11-24",
     "wikipedia": "http://en.wikipedia.org/wiki/Sid_Sidebottom",
-    "website": "http://www.sidsidebottom.com/"
+    "website": "http://www.sidsidebottom.com/",
+    "facebook": "http://www.facebook.com/sid.sidebottom",
+    "parliment_link": "http://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=849",
+    "open_australia_link": "http://www.openaustralia.org/mp/sid_sidebottom",
+    "image": "http://www.openaustralia.org/images/mpsL/10583.jpg",
+    "entered_reason": "general_election",
+    "office": [
+        "Parliamentary Secretary for Agriculture, Fisheries and Forestry"
+    ]
 }

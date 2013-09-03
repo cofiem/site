@@ -8,5 +8,15 @@
     "retiring": false,
     "term_start": "2007-11-24",
     "wikipedia": "http://en.wikipedia.org/wiki/Jason_Clare",
-    "website": "http://www.jasonclare.com.au/"
+    "website": "http://www.jasonclare.com.au/",
+    "twitter": "http://twitter.com/JasonClareMP",
+    "parliment_link": "http://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=HWL",
+    "open_australia_link": "http://www.openaustralia.org/mp/jason_clare",
+    "image": "http://www.openaustralia.org/images/mpsL/10123.jpg",
+    "entered_reason": "general_election",
+    "office": [
+        "Cabinet Secretary",
+        "Minister for Home Affairs ",
+        "Minister for Justice"
+    ]
 }

@@ -9,5 +9,10 @@
     "party": "alp",
     "retiring": false,
     "term_start": "2012-06-20",
-    "wikipedia": "http://en.wikipedia.org/wiki/Lin_Thorp"
+    "wikipedia": "http://en.wikipedia.org/wiki/Lin_Thorp",
+    "email": "senator.thorp@aph.gov.au",
+    "parliment_link": "http://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=183342",
+    "open_australia_link": "http://www.openaustralia.org/senator/lin_thorp",
+    "image": "http://www.openaustralia.org/images/mpsL/10769.jpg",
+    "entered_reason": "general_election"
 }

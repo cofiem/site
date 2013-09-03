@@ -8,5 +8,14 @@
     "retiring": false,
     "term_start": "2004-10-09",
     "wikipedia": "http://en.wikipedia.org/wiki/Brendan_O%27Connor_(politician)",
-    "website": "http://www.brendanoconnor.com.au/"
+    "website": "http://www.brendanoconnor.com.au/",
+    "email": "Brendan.O'Connor.MP@aph.gov.au",
+    "facebook": "https://www.facebook.com/pages/Brendan-OConnor-MP/287789063686?sk=info",
+    "parliment_link": "http://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=00AN3",
+    "open_australia_link": "http://www.openaustralia.org/mp/brendan_o'connor",
+    "image": "http://www.openaustralia.org/images/mpsL/10496.jpg",
+    "entered_reason": "general_election",
+    "office": [
+        "Minister for Employment, Skills and Training"
+    ]
 }

@@ -5,5 +5,13 @@
     "party": "alp",
     "retiring": true,
     "term_start": "1993-03-13",
-    "wikipedia": "http://en.wikipedia.org/wiki/Stephen_Smith_(Australian_politician)"
+    "wikipedia": "http://en.wikipedia.org/wiki/Stephen_Smith_(Australian_politician)",
+    "parliment_link": "http://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=5V5",
+    "open_australia_link": "http://www.openaustralia.org/mp/stephen_smith",
+    "image": "http://www.openaustralia.org/images/mpsL/10594.jpg",
+    "entered_reason": "general_election",
+    "office": [
+        "Deputy Leader of the House",
+        "Minister for Defence"
+    ]
 }

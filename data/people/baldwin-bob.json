@@ -6,7 +6,18 @@
     "last_name": "BALDWIN",
     "party": "lib",
     "retiring": false,
-    "term_start": "2001-10-10",
+    "term_start": "2001-11-10",
     "wikipedia": "http://en.wikipedia.org/wiki/Bob_Baldwin",
-    "website": "http://www.bobbaldwin.com.au/"
+    "website": "http://www.bobbaldwin.com.au/",
+    "email": "Bob.Baldwin.MP@aph.gov.au",
+    "twitter": "http://twitter.com/bobbaldwinmp",
+    "facebook": "http://en-gb.facebook.com/bobbaldwinmp",
+    "parliment_link": "http://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=LL6",
+    "open_australia_link": "http://www.openaustralia.org/mp/bob_baldwin",
+    "image": "http://www.openaustralia.org/images/mpsL/10026.jpg",
+    "entered_reason": "general_election",
+    "office": [
+        "Shadow Minister for Tourism",
+        "Shadow Minister Regional Development"
+    ]
 }

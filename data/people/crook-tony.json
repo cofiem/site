@@ -5,5 +5,9 @@
     "party": "nat",
     "retiring": true,
     "term_start": "2010-08-21",
-    "wikipedia": "http://en.wikipedia.org/wiki/Tony_Crook_(politician)"
+    "wikipedia": "http://en.wikipedia.org/wiki/Tony_Crook_(politician)",
+    "parliment_link": "http://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=M3K",
+    "open_australia_link": "http://www.openaustralia.org/mp/tony_crook",
+    "image": "http://www.openaustralia.org/images/mpsL/10735.jpg",
+    "entered_reason": "general_election"
 }

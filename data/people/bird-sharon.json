@@ -8,5 +8,15 @@
     "retiring": false,
     "term_start": "2004-10-09",
     "wikipedia": "http://en.wikipedia.org/wiki/Sharon_Bird",
-    "website": "http://www.sharonbird.com.au/"
+    "website": "http://www.sharonbird.com.au/",
+    "email": "Sharon.Bird.MP@aph.gov.au",
+    "twitter": "http://twitter.com/SharonBirdMP",
+    "facebook": "http://www.facebook.com/sharon.bird.mp",
+    "parliment_link": "http://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=DZP",
+    "open_australia_link": "http://www.openaustralia.org/mp/sharon_bird",
+    "image": "http://www.openaustralia.org/images/mpsL/10043.jpg",
+    "entered_reason": "general_election",
+    "office": [
+        "Minister for Regional Development, Regional Communication and Road Safety"
+    ]
 }

@@ -8,5 +8,14 @@
     "retiring": false,
     "term_start": "1998-10-03",
     "wikipedia": "http://en.wikipedia.org/wiki/Michael_Danby",
-    "website": "http://www.danbymp.com/"
+    "website": "http://www.danbymp.com/",
+    "email": "Michael.Danby.MP@aph.gov.au",
+    "facebook": "http://www.facebook.com/profile.php?id=1191838056",
+    "parliment_link": "http://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=WF6",
+    "open_australia_link": "http://www.openaustralia.org/mp/michael_danby",
+    "image": "http://www.openaustralia.org/images/mpsL/10165.jpg",
+    "entered_reason": "general_election",
+    "office": [
+        "Parliamentary Secretary for Arts"
+    ]
 }

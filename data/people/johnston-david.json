@@ -9,5 +9,12 @@
     "party": "lib",
     "retiring": false,
     "term_start": "2002-07-01",
-    "wikipedia": "http://en.wikipedia.org/wiki/David_Johnston_(politician)"
+    "wikipedia": "http://en.wikipedia.org/wiki/David_Johnston_(politician)",
+    "parliment_link": "http://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=00AON",
+    "open_australia_link": "http://www.openaustralia.org/senator/david_johnston",
+    "image": "http://www.openaustralia.org/images/mpsL/10344.jpg",
+    "entered_reason": "general_election",
+    "office": [
+        "Shadow Minister for Defence"
+    ]
 }

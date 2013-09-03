@@ -6,5 +6,13 @@
     "party": "lib",
     "retiring": false,
     "term_start": "2005-05-05",
-    "wikipedia": "http://en.wikipedia.org/wiki/Concetta_Fierravanti-Wells"
+    "wikipedia": "http://en.wikipedia.org/wiki/Concetta_Fierravanti-Wells",
+    "email": "senator.fierravanti-wells@aph.gov.au",
+    "parliment_link": "http://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=e4t",
+    "open_australia_link": "http://www.openaustralia.org/senator/concetta_fierravanti-wells",
+    "image": "http://www.openaustralia.org/images/mpsL/10222.jpg",
+    "office": [
+        "Shadow Minister for Mental Health",
+        "Shadow Minister for Ageing"
+    ]
 }

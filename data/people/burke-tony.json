@@ -8,5 +8,18 @@
     "retiring": false,
     "term_start": "2004-10-09",
     "wikipedia": "http://en.wikipedia.org/wiki/Tony_Burke",
-    "website": "http://www.tonyburke.com.au/"
+    "website": "http://www.tonyburke.com.au/",
+    "email": "Tony.Burke.MP@aph.gov.au",
+    "twitter": "http://twitter.com/tony_burke",
+    "facebook": "http://www.facebook.com/tony.burke.mp",
+    "parliment_link": "http://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=DYW",
+    "open_australia_link": "http://www.openaustralia.org/mp/tony_burke",
+    "image": "http://www.openaustralia.org/images/mpsL/10081.jpg",
+    "title": "Mr",
+    "entered_reason": "general_election",
+    "office": [
+        "Minister for Immigration, Multicultural Affairs and Citizenship",
+        "Minister for the Arts",
+        "Vice-President of the Executive Council"
+    ]
 }

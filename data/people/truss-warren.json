@@ -8,5 +8,14 @@
     "retiring": false,
     "term_start": "1990-03-24",
     "wikipedia": "http://en.wikipedia.org/wiki/Warren_Truss",
-    "website": "http://www.warrentruss.com/"
+    "website": "http://www.warrentruss.com/",
+    "parliment_link": "http://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=GT4",
+    "open_australia_link": "http://www.openaustralia.org/mp/warren_truss",
+    "image": "http://www.openaustralia.org/images/mpsL/10641.jpg",
+    "entered_reason": "general_election",
+    "office": [
+        "Leader of The Nationals",
+        "Shadow Minister for Infrastructure and Transport",
+        "Leader of the Nationals"
+    ]
 }

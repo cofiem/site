@@ -9,5 +9,14 @@
     "party": "lnp",
     "retiring": false,
     "term_start": "1990-07-01",
-    "wikipedia": "http://en.wikipedia.org/wiki/Ian_Macdonald_(Australian_politician)"
+    "wikipedia": "http://en.wikipedia.org/wiki/Ian_Macdonald_(Australian_politician)",
+    "parliment_link": "http://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=YW4",
+    "open_australia_link": "http://www.openaustralia.org/senator/ian_macdonald",
+    "image": "http://www.openaustralia.org/images/mpsL/10401.jpg",
+    "entered_reason": "general_election",
+    "office": [
+        "Shadow Parliamentary Secretaries",
+        "Shadow Parliamentary Secretary for Northern and Remote Australia",
+        "Shadow Parliamentary Secretary for the Defence Force and Defence Support"
+    ]
 }
